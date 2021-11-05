@@ -37,5 +37,4 @@ export class TodosComponent implements OnInit {
 
     this.inputTodo = "";
   }
-
 }
